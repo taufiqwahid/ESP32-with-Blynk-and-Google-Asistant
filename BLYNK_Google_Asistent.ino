@@ -3,7 +3,7 @@
 #include <WiFiClient.h>
 #include <BlynkSimpleEsp32.h>
 
-char auth[] = "WoM4oTTme-Q_5QKKeT92n4lh8GXvHVgC";
+char auth[] = "TOKEN BLYNK";
 char ssid[] = "66";
 char pass[] = "11111111";
 
