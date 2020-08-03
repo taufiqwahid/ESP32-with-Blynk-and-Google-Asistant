@@ -1,8 +1,11 @@
-![Image of Yaktocat](https://github.com/taufiqwahid/ESP32-with-Blynk-and-Google-Asistant/blob/master/Google%20Asistant.jpg)
+
 
 
 # ESP32-with-Blynk-and-Google-Asistant
 ESP32 with Blynk and Google Asistant
+
+![Image of Yaktocat](https://github.com/taufiqwahid/ESP32-with-Blynk-and-Google-Asistant/blob/master/Google%20Asistant.jpg)
+
 **BLYNK**
 
 * Download the Blynk app for iOS or Android according to your device
